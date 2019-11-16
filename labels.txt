@@ -1,1 +1,5 @@
-monkey
+and
+or
+not
+nand
+nor
